@@ -1,4 +1,5 @@
 # Delta-demo
-This Repository is For Understanding Git and Github
-ok.
-kjbnkjnj
+This Repository is For Understanding Git and Github.
+ok..
+kjbnkjnj.
+
